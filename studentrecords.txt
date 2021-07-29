@@ -1,0 +1,22 @@
+insert into Student values(100,"Adam","Sandler","Reach@adam",97789,"DC");
+insert into Student values(101,"Jim","Carrey","Reach@jimmy",96533,"Orlando");
+insert into Student values(102,"Mark","Rufflow","Reach@marky",14322,"Moscow");
+insert into Student values(103,"Alex","Hughes","Reach@alex",45645,"UK");
+insert into Student values(104,"Joe","Goldberg","Reach@joe",98657,"Auckland");
+insert into Student values(105,"John","Abruzzi","Reach@john",23465,"New SouthHampton");
+insert into Student values(106,"Michael","Scott","Reach@scott",45615,"Jamaica");
+insert into Student values(107,"Johnny","Blaze","Reach@blaze",92735,"France");
+insert into Student values(108,"Carter","Slade","Reach@carter",01099,"Germany");
+
+
+
+insert into Course values(200,"Machine Learning",9,100);
+insert into Course values(201,"HTML",5,101);
+insert into Course values(202,"JS",11,102);
+insert into Course values(203,"CORE JAVA",25,103);
+insert into Course values(204,"ReactJS",10,104);
+insert into Course values(205,"Python",8,105);
+insert into Course values(206,"R",12,106);
+insert into Course values(207,"C++",4,107);
+insert into Course values(208,"MongoDB",14,108);
+insert into Course values(209,"Spring",5,100);

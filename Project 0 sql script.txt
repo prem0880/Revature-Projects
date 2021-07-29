@@ -1,0 +1,35 @@
+create database SCMS;
+
+show databases;
+
+
+use scms;
+
+CREATE TABLE Student_Records{
+		Student_id int primary key not null,
+		Student_fname varchar(20),
+		Student_lname varchar(20),
+		Student_email varchar(20),
+		Student_phone int,
+		Student_address varchar(20)
+		};
+
+drop table Student_Records;
+        
+select * from Student_Records;
+
+
+
+CREATE TABLE Course_Records (
+		Course_id int primary key not null,
+		Course_name varchar(20) not null,
+		Course_duration varchar(20) not null,
+		Student_id int,
+		FOREIGN KEY(Student_id) REFERENCES Student_Records(Student_id)
+);
+
+
+select * from Course_Records;
+
+
+SELECT s.Student_id,s.Student_fname,s.Student_lname,s.Student_email,s.Student_phone,s.Student_address,c.Course_id,c.Course_name,c.Course_duration from Student_Records s inner join Course_Records c on s.Student_id=c.Student_id where Course_id=?;
