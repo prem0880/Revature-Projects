@@ -1,0 +1,458 @@
+2021-07-25 16:42:45 INFO  StudentApplication:17 - In main
+2021-07-25 16:42:48 INFO  StudentController:58 - in display student controller
+2021-07-25 16:42:48 INFO  StudentServiceImpl:55 - in display student service implementation
+2021-07-25 16:42:48 INFO  StudentDAOImpl:88 - in display student DAO Implementation...
+2021-07-26 10:08:32 INFO  StudentApplication:18 - In main
+2021-07-26 13:19:54 INFO  StudentApplication:17 - In main
+2021-07-26 13:20:04 INFO  StudentController:50 - in display student controller
+2021-07-26 13:20:04 INFO  StudentServiceImpl:56 - in display student service implementation
+2021-07-26 13:20:04 INFO  StudentDAOImpl:81 - in display student DAO Implementation...
+2021-07-26 13:20:43 INFO  StudentController:28 - in delete student controller
+2021-07-26 13:20:43 INFO  StudentServiceImpl:30 - in delete student service implementation
+2021-07-26 13:20:43 INFO  StudentDAOImpl:41 - in delete student DAO Implementation...
+2021-07-26 13:20:51 INFO  StudentController:50 - in display student controller
+2021-07-26 13:20:51 INFO  StudentServiceImpl:56 - in display student service implementation
+2021-07-26 13:20:51 INFO  StudentDAOImpl:81 - in display student DAO Implementation...
+2021-07-27 22:33:54 INFO  StudentApplication:18 - In main method-StudentApplication
+2021-07-27 22:34:02 INFO  StudentApplication:106 - Inside Case 4
+2021-07-27 22:34:02 INFO  StudentController:53 - in display student controller
+2021-07-27 22:34:02 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 22:34:02 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 22:35:33 INFO  StudentApplication:18 - In main method-StudentApplication
+2021-07-27 22:35:38 INFO  StudentApplication:106 - Inside Case 4
+2021-07-27 22:35:38 INFO  StudentController:53 - in display student controller
+2021-07-27 22:35:38 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 22:35:38 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 22:35:49 INFO  StudentApplication:79 - Inside Case 3
+2021-07-27 22:36:10 INFO  StudentController:42 - in update student controller
+2021-07-27 22:36:10 INFO  StudentServiceImpl:44 - in update student service implementation
+2021-07-27 22:36:10 INFO  StudentDAOImpl:61 - in update student DAO Implementation...
+2021-07-27 22:36:16 INFO  StudentApplication:106 - Inside Case 4
+2021-07-27 22:36:16 INFO  StudentController:53 - in display student controller
+2021-07-27 22:36:16 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 22:36:16 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:29:46 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:30:30 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:30:40 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:30:40 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:30:44 INFO  StudentApplication:121 - Inside Case 4
+2021-07-27 23:30:44 INFO  StudentController:53 - in display student controller
+2021-07-27 23:30:44 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 23:30:44 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:30:45 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:30:57 INFO  StudentApplication:42 - Inside Case 1
+2021-07-27 23:33:17 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:33:20 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:33:20 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:33:29 INFO  StudentApplication:42 - Inside Case 1
+2021-07-27 23:33:45 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:33:46 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:33:46 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:33:48 INFO  StudentApplication:42 - Inside Case 1
+2021-07-27 23:34:22 INFO  StudentController:19 - in add student controller
+2021-07-27 23:34:22 INFO  StudentServiceImpl:20 - in add student service implementation
+2021-07-27 23:34:22 INFO  StudentDAOImpl:22 - in add student DAO Implementation...
+2021-07-27 23:34:23 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:34:33 INFO  StudentApplication:122 - Inside Case 4
+2021-07-27 23:34:33 INFO  StudentController:53 - in display student controller
+2021-07-27 23:34:33 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 23:34:33 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:34:33 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:34:51 INFO  StudentApplication:73 - Inside Case 2
+2021-07-27 23:34:53 INFO  StudentController:31 - in delete student controller
+2021-07-27 23:34:53 INFO  StudentServiceImpl:32 - in delete student service implementation
+2021-07-27 23:34:53 INFO  StudentDAOImpl:45 - in delete student DAO Implementation...
+2021-07-27 23:34:53 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:35:12 INFO  StudentApplication:73 - Inside Case 2
+2021-07-27 23:35:14 INFO  StudentController:31 - in delete student controller
+2021-07-27 23:35:14 INFO  StudentServiceImpl:32 - in delete student service implementation
+2021-07-27 23:35:14 INFO  StudentDAOImpl:45 - in delete student DAO Implementation...
+2021-07-27 23:35:14 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:35:17 INFO  StudentApplication:122 - Inside Case 4
+2021-07-27 23:35:17 INFO  StudentController:53 - in display student controller
+2021-07-27 23:35:17 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 23:35:17 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:35:17 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:35:22 INFO  StudentApplication:89 - Inside Case 3
+2021-07-27 23:35:43 INFO  StudentController:42 - in update student controller
+2021-07-27 23:35:43 INFO  StudentServiceImpl:44 - in update student service implementation
+2021-07-27 23:35:43 INFO  StudentDAOImpl:61 - in update student DAO Implementation...
+2021-07-27 23:35:43 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:36:03 INFO  StudentApplication:122 - Inside Case 4
+2021-07-27 23:36:03 INFO  StudentController:53 - in display student controller
+2021-07-27 23:36:03 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 23:36:03 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:36:03 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:36:43 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:36:46 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:36:46 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:36:51 INFO  StudentApplication:89 - Inside Case 3
+2021-07-27 23:37:43 INFO  StudentController:42 - in update student controller
+2021-07-27 23:37:43 INFO  StudentServiceImpl:44 - in update student service implementation
+2021-07-27 23:37:43 INFO  StudentDAOImpl:61 - in update student DAO Implementation...
+2021-07-27 23:37:45 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:37:48 INFO  StudentApplication:123 - Inside Case 4
+2021-07-27 23:37:48 INFO  StudentController:53 - in display student controller
+2021-07-27 23:37:48 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-27 23:37:48 INFO  StudentDAOImpl:85 - in display student DAO Implementation...
+2021-07-27 23:37:48 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:37:55 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:37:55 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:04 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:04 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:05 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:05 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:06 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:06 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:06 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:06 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:07 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:07 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:07 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:07 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:07 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:07 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:08 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:08 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:38:08 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:38:08 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:40:38 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:40:40 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:40:40 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:40:42 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:42:19 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:42:22 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:42:22 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:42:24 INFO  InvalidSwitchChoiceException:11 - Inside Invalid Switch Choice Exception
+2021-07-27 23:42:59 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:43:29 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:43:40 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:43:40 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:43:42 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:43:42 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:43:46 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:43:46 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:43:50 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:43:50 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:44:09 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:44:13 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:44:13 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:44:15 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:44:15 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:44:16 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:44:16 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:44:23 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:44:23 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:45:18 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:45:20 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:45:20 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:45:23 INFO  StudentApplication:135 - Inside Case 5
+2021-07-27 23:45:23 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:45:24 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:45:24 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:45:26 INFO  StudentApplication:38 - In Main Student Case
+2021-07-27 23:45:26 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-27 23:48:12 INFO  StudentApplication:15 - In Main Method...
+2021-07-27 23:48:22 INFO  StudentApplication:48 - In Main Course Case
+2021-07-27 23:48:22 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-27 23:48:25 INFO  CourseApplication:103 - Inside Case 4
+2021-07-27 23:48:25 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-27 23:48:25 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-27 23:48:25 INFO  CourseDAOImpl:90 - IN DISPLAY COURSE-DAOImpl
+2021-07-27 23:48:29 INFO  CourseApplication:114 - Inside Case 5
+2021-07-27 23:48:29 INFO  CourseController:69 - IN FETCH COURSE REPORT-CONTROLLER
+2021-07-27 23:48:29 INFO  CourseServiceImpl:73 - IN FETCH COURSE REPORT-SERVICE
+2021-07-27 23:48:29 INFO  CourseDAOImpl:118 - IN FETCH COURSE REPORT-DAOImpl
+2021-07-27 23:48:38 INFO  CourseApplication:123 - Inside Case 6
+2021-07-27 23:48:38 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-27 23:48:38 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-27 23:48:38 INFO  CourseDAOImpl:180 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-27 23:48:40 INFO  CourseDAOImpl:148 - Inside CheckCourseID
+2021-07-27 23:48:53 INFO  CourseApplication:41 - Inside Case 1
+2021-07-27 23:49:22 INFO  CourseController:20 - IN ADD COURSE METHOD-CONTROLLER
+2021-07-27 23:49:22 INFO  CourseServiceImpl:21 - IN ADD COURSE-SERVICE
+2021-07-27 23:49:22 INFO  CourseDAOImpl:29 - IN ADD COURSE-DAOImpl
+2021-07-27 23:49:43 INFO  CourseApplication:41 - Inside Case 1
+2021-07-27 23:49:51 INFO  CourseController:20 - IN ADD COURSE METHOD-CONTROLLER
+2021-07-27 23:49:51 INFO  CourseServiceImpl:21 - IN ADD COURSE-SERVICE
+2021-07-27 23:49:51 INFO  CourseDAOImpl:29 - IN ADD COURSE-DAOImpl
+2021-07-27 23:50:02 INFO  CourseApplication:67 - Inside Case 2
+2021-07-27 23:50:04 INFO  CourseController:33 - IN DELETE COURSE-CONTROLLER
+2021-07-27 23:50:04 INFO  CourseServiceImpl:37 - IN DELETE COURSE-SERVICE
+2021-07-27 23:50:04 INFO  CourseDAOImpl:50 - IN DELETE COURSE-DAOImpl
+2021-07-27 23:50:14 INFO  CourseApplication:103 - Inside Case 4
+2021-07-27 23:50:14 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-27 23:50:14 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-27 23:50:14 INFO  CourseDAOImpl:90 - IN DISPLAY COURSE-DAOImpl
+2021-07-27 23:50:21 INFO  CourseApplication:67 - Inside Case 2
+2021-07-27 23:50:23 INFO  CourseController:33 - IN DELETE COURSE-CONTROLLER
+2021-07-27 23:50:23 INFO  CourseServiceImpl:37 - IN DELETE COURSE-SERVICE
+2021-07-27 23:50:23 INFO  CourseDAOImpl:50 - IN DELETE COURSE-DAOImpl
+2021-07-27 23:50:26 INFO  CourseApplication:103 - Inside Case 4
+2021-07-27 23:50:26 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-27 23:50:26 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-27 23:50:26 INFO  CourseDAOImpl:90 - IN DISPLAY COURSE-DAOImpl
+2021-07-27 23:50:34 INFO  CourseApplication:67 - Inside Case 2
+2021-07-27 23:50:36 INFO  CourseController:33 - IN DELETE COURSE-CONTROLLER
+2021-07-27 23:50:36 INFO  CourseServiceImpl:37 - IN DELETE COURSE-SERVICE
+2021-07-27 23:50:36 INFO  CourseDAOImpl:50 - IN DELETE COURSE-DAOImpl
+2021-07-27 23:50:38 INFO  CourseApplication:103 - Inside Case 4
+2021-07-27 23:50:38 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-27 23:50:38 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-27 23:50:38 INFO  CourseDAOImpl:90 - IN DISPLAY COURSE-DAOImpl
+2021-07-27 23:50:57 INFO  CourseApplication:82 - Inside Case 3
+2021-07-27 23:51:27 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-27 23:51:27 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-27 23:51:27 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-27 23:51:30 INFO  CourseApplication:103 - Inside Case 4
+2021-07-27 23:51:30 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-27 23:51:30 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-27 23:51:30 INFO  CourseDAOImpl:90 - IN DISPLAY COURSE-DAOImpl
+2021-07-27 23:51:35 INFO  CourseApplication:137 - Inside Case 7
+2021-07-28 00:19:16 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:19:18 INFO  StudentApplication:38 - In Main Student Case
+2021-07-28 00:19:18 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-28 00:19:25 INFO  StudentApplication:89 - Inside Case 3
+2021-07-28 00:20:30 INFO  StudentController:42 - in update student controller
+2021-07-28 00:20:30 INFO  StudentServiceImpl:44 - in update student service implementation
+2021-07-28 00:20:30 INFO  StudentDAOImpl:64 - in update student DAO Implementation...
+2021-07-28 00:20:41 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-28 00:20:51 INFO  StudentApplication:125 - Inside Case 4
+2021-07-28 00:20:51 INFO  StudentController:53 - in display student controller
+2021-07-28 00:20:51 INFO  StudentServiceImpl:58 - in display student service implementation
+2021-07-28 00:20:51 INFO  StudentDAOImpl:200 - in display student DAO Implementation...
+2021-07-28 00:20:51 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-28 00:41:47 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:41:54 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:41:54 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:41:57 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:42:20 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:42:20 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:42:20 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:43:27 INFO  CourseApplication:108 - Inside Case 4
+2021-07-28 00:43:27 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 00:43:27 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 00:43:27 INFO  CourseDAOImpl:159 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 00:45:21 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:45:24 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:45:24 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:45:26 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:45:46 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:45:46 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:45:46 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:46:08 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:46:10 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:46:10 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:46:11 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:46:29 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:46:30 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:46:30 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:46:36 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:46:53 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:46:53 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:46:53 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:47:31 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:47:32 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:47:32 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:47:33 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:47:43 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:47:43 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:47:43 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:47:57 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:47:59 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:47:59 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:48:04 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:48:12 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:48:12 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:48:12 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:48:20 INFO  CourseApplication:107 - Inside Case 4
+2021-07-28 00:48:20 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 00:48:20 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 00:48:20 INFO  CourseDAOImpl:159 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 00:54:43 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 00:54:45 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 00:54:45 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 00:54:47 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 00:55:28 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 00:55:28 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 00:55:28 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 00:55:28 INFO  CourseDAOImpl:222 - Inside CheckCourseID
+2021-07-28 00:55:44 INFO  CourseApplication:107 - Inside Case 4
+2021-07-28 00:55:44 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 00:55:44 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 00:55:44 INFO  CourseDAOImpl:164 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 01:05:28 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:05:43 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:05:43 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:05:45 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:05:45 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:05:45 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:05:45 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:06:09 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:06:16 INFO  CourseApplication:92 - Inside Case 4
+2021-07-28 01:06:16 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 01:06:16 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 01:06:16 INFO  CourseDAOImpl:198 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 01:06:37 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:06:37 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:06:37 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:06:37 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:07:00 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:07:03 INFO  CourseApplication:92 - Inside Case 4
+2021-07-28 01:07:03 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 01:07:03 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 01:07:03 INFO  CourseDAOImpl:198 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 01:07:38 INFO  CourseApplication:126 - Inside Case 7
+2021-07-28 01:07:56 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:07:58 INFO  StudentApplication:38 - In Main Student Case
+2021-07-28 01:07:58 INFO  StudentApplication:23 - In main method-StudentApplication
+2021-07-28 01:08:00 INFO  StudentApplication:89 - Inside Case 3
+2021-07-28 01:09:29 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:09:38 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:09:38 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:09:39 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:09:39 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:09:39 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:09:39 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:09:58 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:10:28 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:10:28 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:10:29 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:10:29 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:10:29 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:10:29 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:10:37 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:10:37 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:10:47 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:10:47 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:10:47 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:10:47 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:11:07 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:11:07 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:11:21 INFO  CourseApplication:112 - Inside Case 6
+2021-07-28 01:11:21 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-28 01:11:21 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-28 01:11:21 INFO  CourseDAOImpl:288 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-28 01:11:26 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:11:27 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:11:29 INFO  CourseApplication:112 - Inside Case 6
+2021-07-28 01:11:29 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-28 01:11:29 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-28 01:11:29 INFO  CourseDAOImpl:288 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-28 01:11:30 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:11:30 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:11:58 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:12:01 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:12:01 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:12:05 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:12:05 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:12:05 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:12:05 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:12:19 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:12:26 INFO  CourseApplication:92 - Inside Case 4
+2021-07-28 01:12:26 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 01:12:26 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 01:12:26 INFO  CourseDAOImpl:198 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 01:12:30 INFO  CourseApplication:103 - Inside Case 5
+2021-07-28 01:12:30 INFO  CourseController:69 - IN FETCH COURSE REPORT-CONTROLLER
+2021-07-28 01:12:30 INFO  CourseServiceImpl:73 - IN FETCH COURSE REPORT-SERVICE
+2021-07-28 01:12:30 INFO  CourseDAOImpl:226 - IN FETCH COURSE REPORT-DAOImpl
+2021-07-28 01:12:33 INFO  CourseApplication:103 - Inside Case 5
+2021-07-28 01:12:33 INFO  CourseController:69 - IN FETCH COURSE REPORT-CONTROLLER
+2021-07-28 01:12:33 INFO  CourseServiceImpl:73 - IN FETCH COURSE REPORT-SERVICE
+2021-07-28 01:12:33 INFO  CourseDAOImpl:226 - IN FETCH COURSE REPORT-DAOImpl
+2021-07-28 01:12:35 INFO  CourseApplication:112 - Inside Case 6
+2021-07-28 01:12:35 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-28 01:12:35 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-28 01:12:35 INFO  CourseDAOImpl:288 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-28 01:12:40 INFO  CourseDAOImpl:256 - Inside CheckCourseID
+2021-07-28 01:15:04 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:15:06 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:15:06 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:15:17 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:15:17 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:15:17 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:15:17 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:15:20 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:17:29 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:17:31 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:17:31 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:17:34 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:17:34 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:17:34 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:17:34 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:17:37 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:19:23 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:19:25 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:19:25 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:19:27 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:19:27 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:19:27 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:19:27 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:19:29 INFO  InvalidIDException:11 - Inside Invalid Id Exception
+2021-07-28 01:19:38 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:19:38 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:19:38 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:19:38 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:19:44 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:21:21 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:21:24 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:21:24 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:21:26 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:21:26 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:21:26 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:21:26 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:21:29 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:21:31 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:21:44 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:21:44 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:21:44 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:21:44 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:21:46 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:21:46 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:23:07 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 01:23:09 INFO  StudentApplication:48 - In Main Course Case
+2021-07-28 01:23:09 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 01:23:12 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:23:12 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:23:12 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:23:12 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:23:15 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:23:16 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:23:22 INFO  CourseApplication:83 - Inside Case 3
+2021-07-28 01:23:22 INFO  CourseController:48 - IN UPDATE COURSE-CONTROLLER
+2021-07-28 01:23:22 INFO  CourseServiceImpl:52 - IN UPDATE COURSE-SERVICE
+2021-07-28 01:23:22 INFO  CourseDAOImpl:68 - IN UPDATE COURSE-DAOImpl
+2021-07-28 01:23:26 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:23:26 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:23:30 INFO  CourseApplication:92 - Inside Case 4
+2021-07-28 01:23:30 INFO  CourseController:62 - IN DISPLAY COURSE-CONTROLLER
+2021-07-28 01:23:30 INFO  CourseServiceImpl:65 - IN DISPLAY COURSE-SERVICE
+2021-07-28 01:23:30 INFO  CourseDAOImpl:185 - IN DISPLAY COURSE-DAOImpl
+2021-07-28 01:23:48 INFO  CourseApplication:112 - Inside Case 6
+2021-07-28 01:23:48 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-28 01:23:48 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-28 01:23:48 INFO  CourseDAOImpl:278 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-28 01:23:49 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:23:49 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 01:23:55 INFO  CourseApplication:112 - Inside Case 6
+2021-07-28 01:23:55 INFO  CourseController:83 - IN FETCH COURSE BY ID
+2021-07-28 01:23:55 INFO  CourseServiceImpl:87 - IN FETCH COURSE BY ID
+2021-07-28 01:23:55 INFO  CourseDAOImpl:278 - INSIDE FETCH COURSE BY ID-DAOImpl
+2021-07-28 01:23:58 INFO  CourseDAOImpl:243 - Inside CheckCourseID
+2021-07-28 01:23:58 INFO  ClassNotFoundException:11 - Inside Course Not Found Exception
+2021-07-28 08:07:33 INFO  StudentDAOImpl:25 - in add student DAO Implementation...
+2021-07-28 08:07:34 INFO  StudentDAOImpl:48 - in delete student DAO Implementation...
+2021-07-28 09:54:22 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 09:54:26 INFO  StudentApplication:43 - In Main Student Case
+2021-07-28 09:54:26 INFO  StudentApplication:24 - In main method-StudentApplication
+2021-07-28 09:54:29 INFO  StudentApplication:114 - Inside Case 5
+2021-07-28 09:54:34 INFO  InvalidSwitchChoiceException:11 - Inside Invalid Switch Choice Exception
+2021-07-28 09:56:10 INFO  StudentApplication:15 - In Main Method...
+2021-07-28 09:56:12 INFO  StudentApplication:44 - In Main Student Case
+2021-07-28 09:56:12 INFO  StudentApplication:24 - In main method-StudentApplication
+2021-07-28 09:56:14 INFO  StudentApplication:114 - Inside Case 5
+2021-07-28 09:56:17 INFO  StudentApplication:54 - In Main Course Case
+2021-07-28 09:56:17 INFO  CourseApplication:19 - IN COURSE APP
+2021-07-28 09:56:19 INFO  CourseApplication:126 - Inside Case 7
+2021-07-28 09:56:22 INFO  StudentApplication:63 - Exiting Application
